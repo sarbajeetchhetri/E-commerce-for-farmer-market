@@ -52,6 +52,7 @@
                                 <li><a href="{{url('/farmer_login')}}" class="{{$menu_active==8? ' active':''}}"><i class="fa fa-lock"></i>farmerLogin</a></li>
                             @endif
                             
+                        
 
                         </ul>
                     </div>
